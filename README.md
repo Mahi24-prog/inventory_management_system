@@ -3,7 +3,11 @@
 A responsive, production-ready frontend prototype for inventory management built with Next.js 16, TypeScript, ShadCN UI, and React Hook Form + Zod.
 
 > Built as part of a frontend developer assignment. Demonstrates component architecture, form validation, data visualization, and modern React patterns.
+---
 
+## Live Demo
+
+🔗 [View Live Demo](https://inventory-ms1.netlify.app) &nbsp;|&nbsp; 📁 [GitHub Repository](https://github.com/Mahi24-prog/inventory_management_system)
 ---
 
 ## Screenshots
@@ -157,4 +161,4 @@ For full-stack integration the recommended additions would be:
 **Mahendra Pawar**
 Full Stack Developer — React · Next.js · TypeScript · Node.js
 
-🔗 [LinkedIn](#) &nbsp;|&nbsp; 🐙 [GitHub](https://github.com/Mahi24-prog) &nbsp;|&nbsp; 📧 mahendrapawar444666@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/mahendra-pawar-3513b3170) &nbsp;|&nbsp; 🐙 [GitHub](https://github.com/Mahi24-prog) &nbsp;|&nbsp; 📧 mahendrapawar444666@gmail.com
